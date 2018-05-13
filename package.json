@@ -1,0 +1,23 @@
+{
+  "name": "mypackage",
+  "version": "1.0.0",
+  "description": "This is My First Package using npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhuvi2706/myPackage.git"
+  },
+  "keywords": [
+    "mypackage",
+    "npm"
+  ],
+  "author": "Bhuvanesh Goyal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bhuvi2706/myPackage/issues"
+  },
+  "homepage": "https://github.com/bhuvi2706/myPackage#readme"
+}
